@@ -1,9 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="RGraphicsSettings">
+<<<<<<< HEAD
     <option name="height" value="545" />
     <option name="resolution" value="75" />
     <option name="version" value="2" />
     <option name="width" value="632" />
+=======
+    <option name="height" value="549" />
+    <option name="resolution" value="75" />
+    <option name="version" value="2" />
+    <option name="width" value="525" />
+>>>>>>> 416d73849f1242af4f1a54f725e5611784b8ac7f
   </component>
 </project>
