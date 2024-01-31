@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="RSettings">
+<<<<<<< HEAD
     <option name="interpreterPath" value="C:\Program Files\R\R-4.3.2\bin\R.exe" />
+=======
+<<<<<<< HEAD
+    <option name="interpreterPath" value="/usr/bin/R" />
+=======
+    <option name="interpreterPath" value="C:\Program Files\R\R-4.3.2\bin\R.exe" />
+>>>>>>> 416d73849f1242af4f1a54f725e5611784b8ac7f
+>>>>>>> 6570827480adc10bcccdc245b87baeaef1741bad
   </component>
 </project>
